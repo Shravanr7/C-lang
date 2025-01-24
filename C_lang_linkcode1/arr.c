@@ -2,7 +2,7 @@
 int main(){
 
     int a[50],i,n;
-    int sum;
+    int sum=0;
 
     printf("Enter Number of Elements in Array : ");
     scanf("%d",&n);
