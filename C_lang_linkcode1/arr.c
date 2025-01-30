@@ -5,7 +5,7 @@ int main(){
     int sum=0;
 
     printf("Enter Number of Elements in Array : ");
-    scanf("%d",&n);
+     scanf("%d",&n);
 
     printf("Enter the Elements : \n");
     for(i=0;i<n;i++){
